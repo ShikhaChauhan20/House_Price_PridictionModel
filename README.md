@@ -1,4 +1,4 @@
-# Real Estate Price Predictor
+#  Real Estate Price Predictor
 
 A machine learning model trained on real estate data to predict property prices using Scikit-Learn.
 
@@ -7,9 +7,9 @@ A machine learning model trained on real estate data to predict property prices 
 * **Models Used:** Linear Regression vs. Random Forest Regressor.
 * **Feature Scaling:** Preprocessed features using StandardScaler.
 
-## 📈 Results
+##  Results
 * **Linear Regression:** 74.39% Accuracy (R² Score)
 * **Random Forest Regressor:** 86.89% Accuracy (R² Score)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
